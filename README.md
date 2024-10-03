@@ -22,6 +22,7 @@ To interact with Ollama from Google Colab, you can expose your local Ollama inst
      <img src="image3.png"></img>
      
 ## 4. Execute the Colab Code Across Four Cells
+This is the Link of Full Code : https://github.com/Ch-Saqib/ollama_colab_local/blob/main/OLLAMA_RUN.ipynb
 **Cell 1: Install Ollama**
 ```bash
 # Download and run the Ollama Linux install script
