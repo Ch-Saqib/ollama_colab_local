@@ -7,7 +7,7 @@ To interact with Ollama from Google Colab, you can expose your local Ollama inst
 **1. Obtain an Ngrok Token**
  - First, acquire your Ngrok authentication token.
    
-<img src="image1.png"></img>
+<img src="image1.PNG"></img>
 
 **2. Configure Colab Runtime**
 
