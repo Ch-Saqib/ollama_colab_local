@@ -23,7 +23,7 @@ To interact with Ollama from Google Colab, you can expose your local Ollama inst
      
 ## 4. Execute the Colab Code Across Four Cells
 
-This is the Link of Colab File : https://colab.research.google.com/drive/184zcnSj-w1COkq2mdKL0uT_KSAkIzhdf
+This is the Link of Colab File : https://github.com/Ch-Saqib/ollama_colab_local/blob/main/OLLAMA_RUN.ipynb
 
 **Cell 1: Install Ollama**
 ```bash
